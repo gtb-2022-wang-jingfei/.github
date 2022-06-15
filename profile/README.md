@@ -1,23 +1,23 @@
-# Welcome to Panda's Org
+# Welcome to SullyW's Org
 
-Hi, this is me, Panda.
+Hi, this is me, SullyW
 
-You see this avatar, you know it is me.
+this is a profile page for brief introduction.
 
-![me-panda](assets/me-panda.jpg)
+![profile_pic](assets/profile_pic.JPG)
 
-This is me in 2021:
+This is me in 2019, just about to graduate from NJU:
 
-<img src="assets/me-now-2021.jpg" alt="me-now-2021" width="30%" />
+<img src="assets/graduate.png" alt="graduate.png" width="30%" />
 
-This is me just joined Thoughtworks in 2011:
+This is me in London:
 
-![me-join-tw-2011](assets/me-join-tw-2011.jpg)
+![me_in_london](assets/me_in_london.JPG)
 
-然后这是 **颜**（美）**值**（颜）**巅**（开）**峰**（满）的我:
+And then this is me spending my summer vacation in Brighton *trying to play cool but actually terrified of those cracy seagulls*
 
-<img src="assets/me-in-macao.jpg" alt="me-in-macao" width="20%" />
+<img src="assets/me_in_brighton.JPEG" alt="me_in_brighton" width="30%" />
 
-最后，我和我的 baby：
+Finally, this is my puppy, hope she'd make you smile a bit：
 
-<img src="assets/me-and-my-baby.jpg" alt="me-and-my-baby" width="50%" />
+<img src="assets/my_dog.jpeg" alt="my_dog" width="30%" />
