@@ -4,11 +4,11 @@ Hi, this is me, SullyW
 
 this is a profile page for brief introduction.
 
-![profile_pic](assets/profile_pic.JPG)
+<img src="assets/profile_pic.JPG" alt="profile_pic" width="30%" />
 
 This is me in 2019, just about to graduate from NJU:
 
-<img src="assets/graduate.png" alt="graduate.png" width="30%" />
+<img src="assets/graduate.PNG" alt="graduate" width="30%" />
 
 This is me in London:
 
